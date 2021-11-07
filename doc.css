@@ -1,0 +1,15 @@
+body{
+    background-color: whitesmoke;
+}
+h2{background-color: orange;
+}
+.container{
+    background-color:lightgrey;
+
+}
+.para{
+    background-color: whitesmoke;
+}
+.content li{
+    padding: 1px;
+}
